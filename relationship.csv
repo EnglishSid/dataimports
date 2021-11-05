@@ -1,0 +1,12 @@
+source,target,relationship
+Customer,Account Executive,Commercial
+Customer,CustomerSuccess,Engage
+CustomerSuccess,Customer,Advise
+Customer,Customer Support,Product Issues
+CustomerSuccess,Marketing,Connect
+CustomerSuccess,Customer Support,Connect
+CustomerSuccess,Professional Services,Connects
+CustomerSuccess,Engineering,Connects
+CustomerSuccess,Product Management,Connects
+CustomerSuccess,Graph Academy,Connects
+CustomerSuccess,Renewals,Connects
